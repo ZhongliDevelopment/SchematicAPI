@@ -9,12 +9,12 @@ Alternatively, you can use the plugin dependency of the library showcased in the
 ## Gradle
 ```
 repositories {
-			maven { url 'https://jitpack.io' }
+  maven { url 'https://jitpack.io' }
 }
 ```
 ```
 dependencies {
-	    implementation 'com.github.ZhongliDevelopment:SchematicAPI:Tag'
+  implementation 'com.github.ZhongliDevelopment:SchematicAPI:Tag'
 }
 ```
 
@@ -22,15 +22,15 @@ dependencies {
 ```
 <repositories>
   <repository>
-		<id>jitpack.io</id>
-		<url>https://jitpack.io</url>
-	</repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+  </repository>
 </repositories>
 ```
 ```
 <dependency>
-	 <groupId>com.github.ZhongliDevelopment</groupId>
-	 <artifactId>SchematicAPI</artifactId>
-	 <version>releases</version>
+  <groupId>com.github.ZhongliDevelopment</groupId>
+  <artifactId>SchematicAPI</artifactId>
+  <version>releases</version>
 </dependency>
 ```
