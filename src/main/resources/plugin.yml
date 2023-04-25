@@ -1,0 +1,7 @@
+name: SchematicAPI
+version: '${version}'
+main: lib.zhongli.schematicapi.SchematicAPI
+api-version: 1.19
+authors: [ Zhongli ]
+description: A library to help with the development of plugins which use Schematic files.
+website: www.zhonglidevelopment.com
